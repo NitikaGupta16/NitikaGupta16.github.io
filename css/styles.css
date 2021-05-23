@@ -171,6 +171,18 @@ h3{
   color: #f1f1f1;
   padding: 10px;
 }
+
+.txt_ach {
+  text-align:left;
+  color: #000000;
+  padding: 10px;
+}
+.content-ach {
+  background: rgb(255 87 34 / 11%); /* Fallback color */
+  border: 2px solid #fff;
+  border-radius: 20px;
+}
+
 #txt_head, .txt_exp h5{
     font-family:'Libre Baskerville', serif;
 }
